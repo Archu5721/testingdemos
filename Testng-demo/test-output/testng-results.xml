@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="4" total="9" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-09-27T12:53:43 IST" name="Suite" finished-at="2022-09-27T12:53:43 IST" duration-ms="145">
+    <groups>
+      <group name="Smoke">
+        <method signature="CarLoanApplicationTests.CarLoanLoginMobile()[pri:0, instance:loanapplications.CarLoanApplicationTests@1c93084c]" name="CarLoanLoginMobile" class="loanapplications.CarLoanApplicationTests"/>
+        <method signature="HomeLoanApplicationTests.HomeLoanLoginWeb()[pri:0, instance:loanapplications.HomeLoanApplicationTests@36c88a32]" name="HomeLoanLoginWeb" class="loanapplications.HomeLoanApplicationTests"/>
+        <method signature="PersonalLoanApplicationTests.PersonalLoanLoginAPI()[pri:0, instance:loanapplications.PersonalLoanApplicationTests@49c386c8]" name="PersonalLoanLoginAPI" class="loanapplications.PersonalLoanApplicationTests"/>
+        <method signature="PersonalLoanApplicationTests.PersonalLoanLoginMobile()[pri:0, instance:loanapplications.PersonalLoanApplicationTests@49c386c8]" name="PersonalLoanLoginMobile" class="loanapplications.PersonalLoanApplicationTests"/>
+        <method signature="PersonalLoanApplicationTests.PersonalLoanLoginWeb()[pri:0, instance:loanapplications.PersonalLoanApplicationTests@49c386c8]" name="PersonalLoanLoginWeb" class="loanapplications.PersonalLoanApplicationTests"/>
+      </group> <!-- Smoke -->
+    </groups>
+    <test started-at="2022-09-27T12:53:43 IST" name="SmokeTests" finished-at="2022-09-27T12:53:43 IST" duration-ms="145">
+      <class name="loanapplications.CarLoanApplicationTests">
+        <test-method signature="CarLoanLoginMobile()[pri:0, instance:loanapplications.CarLoanApplicationTests@1c93084c]" started-at="2022-09-27T12:53:43 IST" name="CarLoanLoginMobile" finished-at="2022-09-27T12:53:43 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CarLoanLoginMobile -->
+      </class> <!-- loanapplications.CarLoanApplicationTests -->
+      <class name="loanapplications.HomeLoanApplicationTests">
+        <test-method signature="HomeLoanLoginWeb()[pri:0, instance:loanapplications.HomeLoanApplicationTests@36c88a32]" started-at="2022-09-27T12:53:43 IST" name="HomeLoanLoginWeb" finished-at="2022-09-27T12:53:43 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomeLoanLoginWeb -->
+      </class> <!-- loanapplications.HomeLoanApplicationTests -->
+      <class name="loanapplications.PersonalLoanApplicationTests">
+        <test-method signature="PersonalLoanLoginAPI()[pri:0, instance:loanapplications.PersonalLoanApplicationTests@49c386c8]" started-at="2022-09-27T12:53:43 IST" name="PersonalLoanLoginAPI" finished-at="2022-09-27T12:53:43 IST" duration-ms="19" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PersonalLoanLoginAPI -->
+        <test-method signature="PersonalLoanLoginMobile()[pri:0, instance:loanapplications.PersonalLoanApplicationTests@49c386c8]" started-at="2022-09-27T12:53:43 IST" name="PersonalLoanLoginMobile" finished-at="2022-09-27T12:53:43 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PersonalLoanLoginMobile -->
+        <test-method signature="PersonalLoanLoginWeb()[pri:0, instance:loanapplications.PersonalLoanApplicationTests@49c386c8]" started-at="2022-09-27T12:53:43 IST" name="PersonalLoanLoginWeb" finished-at="2022-09-27T12:53:43 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PersonalLoanLoginWeb -->
+      </class> <!-- loanapplications.PersonalLoanApplicationTests -->
+    </test> <!-- SmokeTests -->
+  </suite> <!-- Suite -->
+</testng-results>
